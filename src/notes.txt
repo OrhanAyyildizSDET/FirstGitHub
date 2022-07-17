@@ -1,2 +1,7 @@
 Always first pull  and then push!!!!
 After first 1)git add .(All) or you can describe the spesific path with git.status 2)git commit -m "" 3)git push
+=============
+Branch for see have many branches type "git branch" or "git branch -a"
+To Formed branch "git branch (type name)"
+To checkout (to go to branch which we want) type "git checkout (branch name)"
+To push codes new branches type 1)"git add ." 2)"git commit -m (Comment name)git pull" 3)"git push --set-upstream origin (Brunch name)"
